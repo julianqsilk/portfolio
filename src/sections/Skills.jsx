@@ -48,6 +48,10 @@ function Skills() {
             <span>HTML</span>
             <span>CSS</span>
             <span>JavaScript</span>
+            <span>Java</span>
+            <span>C#</span>
+            <span>Unity</span>
+            <span>Godot</span>
           </div>
         </div>
 
