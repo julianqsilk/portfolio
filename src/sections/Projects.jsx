@@ -24,7 +24,7 @@ function Projects() {
         <h2>Proyectos</h2>
 
         <p>
-          Una selección de trabajos audiovisuales, visuales y sonoros.
+          Una selección de trabajos audiovisuales.
         </p>
       </div>
 
