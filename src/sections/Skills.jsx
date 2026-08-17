@@ -5,7 +5,7 @@ function Skills() {
         <p className="section-label">HERRAMIENTAS</p>
         <h2>Skills</h2>
         <p>
-          Herramientas y tecnologías que utilizo para desarrollar mis proyectos.
+          Herramientas que utilizo para desarrollar mis proyectos.
         </p>
       </div>
 
