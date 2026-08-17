@@ -26,7 +26,7 @@ function Contact() {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/julián-q-946847213"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           className="contact-link"
