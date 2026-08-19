@@ -6,6 +6,7 @@ import contactCover from '../assets/projects/audiovisual/contact.png'
 import nohaymomentoCover from '../assets/projects/audiovisual/nohaymomento.jpg'
 import disrupcionCover from '../assets/projects/audiovisual/disrupcion.jpg'
 import bola8Cover from '../assets/projects/audiovisual/bola8.jpg'
+import quepeleademierdaCover from '../assets/projects/audiovisual/quepeleademierda.jpg'
 
 const projects = [
   {
@@ -132,6 +133,30 @@ const projects = [
 
   {
   id: 6,
+  title: 'Que pelea de Mierda',
+  category: 'Audiovisual',
+  type: 'video',
+
+  year: '2024',
+
+  image: quepeleademierdaCover,
+  video: 'https://youtube.com/embed/KJyLns35Hns',
+
+  description:
+    'Durante una acalorada discusión de pareja, una situación de violencia lleva a ambos a enfrentarse a un límite inesperado',
+
+  role: 'Dirección de Sonido · Edicion de Sonido',
+
+  tools: [
+    'Adobe Audition',
+    'Pro Tools'
+  ],
+
+  credits: []
+  },
+
+  {
+  id: 7,
   title: 'Disrupción',
   category: 'Audiovisual',
   type: 'video',
@@ -155,8 +180,10 @@ const projects = [
   credits: []
   },
 
+  
+
   {
-  id: 7,
+  id: 8,
   title: 'La Calaca',
   category: 'Pixel Art',
   type: 'gallery',
@@ -181,7 +208,7 @@ const projects = [
 },
 
 {
-  id: 8,
+  id: 9,
   title: 'Ninja x Moon',
   category: 'Pixel Art',
   type: 'gallery',
