@@ -143,7 +143,7 @@ const projects = [
   video: 'https://youtube.com/embed/KJyLns35Hns',
 
   description:
-    'Durante una acalorada discusión de pareja, una situación de violencia lleva a ambos a enfrentarse a un límite inesperado',
+    'Un par de vecinos tienen una pequeña discusión por los desechos de un perro',
 
   role: 'Dirección de Sonido · Edicion de Sonido',
 
